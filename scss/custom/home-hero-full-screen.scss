@@ -1,0 +1,15 @@
+$hero-full-screen-bg: url('http://www.erik-id.com/hosted-img/bkgrnd.png') center center no-repeat;
+$hero-full-screen-bg-size: cover;
+//$hero-full-screen-text-color: $white;
+
+.home-hero-full-screen {
+  //height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background: $hero-full-screen-bg;
+  background-size: $hero-full-screen-bg-size;
+  padding-left: 5%;
+  padding-right: 5%;
+}

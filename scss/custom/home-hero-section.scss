@@ -1,0 +1,46 @@
+.home-hero-section {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+    .hero-title {
+
+        h1{
+            font-size: 1.75rem;
+            color:$light-gray;
+            line-height: 2rem;
+        }
+        margin-bottom: 3%;
+    }
+
+    .hero-form {
+
+        form {
+            //max-width: :500px;
+
+        }
+        margin-bottom: 15%;
+    }
+
+    .hero-fold {
+        i {
+            font-size: 2.5em;
+            color: $primary-color;
+        }
+
+        margin-bottom: 15%;
+
+    }
+
+    .hero-cta {
+        p{
+            max-width: 500px;
+        }
+
+    }
+
+    .color-callout{
+        color:$primary-color;
+    }
+
+}
