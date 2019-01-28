@@ -18,5 +18,5 @@ npm install
 Development mode
 
 ```bash
-foundation watch
+gulp serve
 ```
